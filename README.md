@@ -64,5 +64,6 @@ Average Positivity Percentage is: 75.0%
 
 - Ensure that the PDF file is text-based, as this script relies on text extraction.
 - The Excel file `finalexcel.xlsx` will contain all the sentiment data for the analyzed PDFs.
+- A sample result xlsx file is attached for clarity. 
 
 ---
