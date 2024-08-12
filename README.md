@@ -90,6 +90,13 @@ continue? y
 Average Positivity Percentage is: 75.0%
 ```
 
+
+## FLowchart 
+
+
+![urlflow](https://github.com/user-attachments/assets/d1b475fa-6ff6-49ef-b594-d97abc87fc88)
+
+
 ## Notes
 
 - Ensure that the PDF file is text-based, as this script relies on text extraction.
